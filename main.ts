@@ -37,6 +37,3 @@ input.onGesture(Gesture.LogoUp, function () {
 })
 let tečka: game.LedSprite = null
 tečka = game.createSprite(2, 2)
-basic.forever(function () {
-	
-})
